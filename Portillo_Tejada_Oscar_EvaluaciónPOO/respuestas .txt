@@ -1,0 +1,32 @@
+1. ¿Cuál es la diferencia entre clase y objeto?
+
+La clase es el molde o la plantilla que define qué características y comportamientos va a tener algo, 
+pero no es un dato real que se pueda usar directamente. El objeto es la creación concreta hecha a partir de ese molde, 
+con valores específicos ya asignados. Por ejemplo, la clase Producto define en general cómo es un producto 
+(que tiene código, nombre, precio y cantidad), mientras que cada producto que creas en tu programa, 
+con sus datos particulares, es un objeto distinto.
+
+
+2. ¿Cuál es la diferencia entre función y método?
+
+Una función es un bloque de código independiente que no pertenece a ninguna clase; 
+se puede llamar directamente pasándole los datos que necesita. Un método, en cambio, 
+es una función que está definida dentro de una clase y que trabaja sobre los datos de un objeto en particular. 
+La diferencia principal es que el método siempre necesita un objeto para poder ejecutarse, 
+mientras que la función funciona de manera independiente.
+
+
+3. ¿Qué ventaja tiene dividir el programa en módulos?
+
+Dividir el programa en varios archivos permite organizar mejor el código, 
+ya que cada archivo se encarga de una parte específica del programa. Esto facilita el mantenimiento, 
+porque si hay un error o algo que cambiar, es más fácil saber en qué archivo buscar. 
+También permite reutilizar el código en otros programas sin tener que copiarlo, mejora la legibilidad general 
+y hace posible que varias personas trabajen en distintas partes del proyecto al mismo tiempo.
+
+
+4. ¿Qué hace la instrucción from producto import Producto?
+
+Esta instrucción le indica a Python que vaya al archivo llamado producto y traiga desde ahí únicamente la clase Producto, 
+para poder usarla directamente en el archivo actual. Gracias a esto, no es necesario escribir todo el nombre del archivo 
+cada vez que se use la clase; simplemente se importa la parte que se necesita, en lugar de todo el módulo completo.

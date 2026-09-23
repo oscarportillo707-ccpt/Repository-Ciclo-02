@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\bin\Debug\net10.0\MiPrimerPrograma.exe
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\bin\Debug\net10.0\MiPrimerPrograma.deps.json
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\bin\Debug\net10.0\MiPrimerPrograma.runtimeconfig.json
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\bin\Debug\net10.0\MiPrimerPrograma.dll
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\bin\Debug\net10.0\MiPrimerPrograma.pdb
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\MiPrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\MiPrimerPrograma.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\MiPrimerPrograma.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\MiPrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\MiPrimerPrograma.dll
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\refint\MiPrimerPrograma.dll
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\MiPrimerPrograma.pdb
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\MiPrimerPrograma.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Desktop\Clases(Ciclo-02)\MiPrimerPrograma\obj\Debug\net10.0\ref\MiPrimerPrograma.dll
