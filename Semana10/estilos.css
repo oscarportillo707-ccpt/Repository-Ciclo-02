@@ -1,0 +1,53 @@
+h1{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    color: green;
+    font-size: 25px;
+    text-align: left;
+}
+
+body{
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+label{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+button{
+    background-color: lightgreen;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.tarjeta{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: rgb(222, 204, 204);
+}
+
+.credenciales{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: rgb(222, 204, 204);
+}
+
+hr{
+    border: 0.5px solid black;
+    margin: 20px 0;
+}
